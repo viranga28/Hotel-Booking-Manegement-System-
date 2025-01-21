@@ -1,4 +1,4 @@
-# Advanced Hotel Booking System
+#Hotel Booking System
 
 A full-stack hotel booking application.
 
